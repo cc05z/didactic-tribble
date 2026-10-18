@@ -1,0 +1,12 @@
+midad.sqlite
+midad.sqlite-shm
+midad.sqlite-wal
+.env
+
+midad-server*.log
+
+# Local AI setup downloads and temporary diagnostics are not part of the site.
+OllamaSetup.exe
+ollama-setup.part*
+ollama-pull.log
+ollama-range-check.bin
